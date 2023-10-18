@@ -1,0 +1,1 @@
+export const MERKLE_ROOT = '0xc994a2285fc9519538eff71768954b1e5f8fa5a1d7aa04bbee7d35d4a212aff1';
